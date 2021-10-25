@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\bin\Debug\netcoreapp3.1\Venci_Proekt.exe
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\bin\Debug\netcoreapp3.1\Venci_Proekt.deps.json
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\bin\Debug\netcoreapp3.1\Venci_Proekt.runtimeconfig.json
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\bin\Debug\netcoreapp3.1\Venci_Proekt.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\bin\Debug\netcoreapp3.1\Venci_Proekt.dll
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\bin\Debug\netcoreapp3.1\Venci_Proekt.pdb
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.dll
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.pdb
+C:\Users\Dell\source\repos\Venci_Proekt\Venci_Proekt\obj\Debug\netcoreapp3.1\Venci_Proekt.genruntimeconfig.cache
